@@ -1,0 +1,128 @@
+{
+  "alunos": [
+    null,
+    {
+      "curso": "redes de computadores",
+      "matricula": 2373,
+      "nome": "gabriel tavares de melo",
+      "telefone": 737475
+    },
+    {
+      "curso": "informatica",
+      "matricula": 36738,
+      "nome": "luanda lobo lima",
+      "telefone": 190
+    },
+    {
+      "curso": "agropecuaria",
+      "matricula": 9987,
+      "nome": "laiane rodrigues facundo",
+      "telefone": 3342
+    },
+    {
+      "curso": "enfermagem",
+      "matricula": 2221,
+      "nome": "laryssa fragoso da silva",
+      "telefone": 55546
+    },
+    {
+      "curso": "matematica",
+      "matricula": 53744,
+      "nome": "rafael paiva de lima",
+      "telefone": 9877
+    },
+    {
+      "curso": "engenharia",
+      "matricula": 75859,
+      "nome": "kelvin barros dias",
+      "telefone": 9244
+    },
+    {
+      "curso": "fisica",
+      "matricula": 94994,
+      "nome": "laisa maria barros",
+      "telefone": 998
+    },
+    {
+      "curso": "quimica",
+      "matricula": 9988,
+      "nome": "david barbosa mendes",
+      "telefone": 2222
+    },
+    {
+      "curso": "computacao",
+      "matricula": 73394,
+      "nome": "kelvia fragoso alves",
+      "telefone": 8777
+    },
+    {
+      "curso": "historia",
+      "matricula": 992992,
+      "nome": "arrais neri freitas",
+      "telefone": 7743
+    }
+  ],
+  "cursos": [
+    null,
+    {
+      "ch": "40h",
+      "email": "gabriel@gmail.com",
+      "nome": "firebase",
+      "professor": "gabriel"
+    },
+    {
+      "ch": "40h",
+      "email": "kelvia@gmail.com",
+      "nome": "matematica",
+      "professor": "kelvia"
+    },
+    {
+      "ch": "80h",
+      "email": "arrais@gmail.com",
+      "nome": "historia",
+      "professor": "arrais"
+    },
+    {
+      "ch": "80h",
+      "email": "gerardo@gmail.com",
+      "nome": "computacao",
+      "professor": "gerardo"
+    },
+    {
+      "ch": "40h",
+      "email": "manu@gmail.com",
+      "nome": "quimica",
+      "professor": "emanuele"
+    },
+    {
+      "ch": "20h",
+      "email": "samu@gmail.com",
+      "nome": "fisica",
+      "professor": "samuel"
+    },
+    {
+      "curso": "40h",
+      "email": "sam@gmail.com",
+      "nome": "engenharia",
+      "professor": "sameque"
+    },
+    {
+      "ch": "40h",
+      "email": "beltrao@gmail.com",
+      "nome": "enfermagem",
+      "professor": "beltrao"
+    },
+    {
+      "ch": "40h",
+      "email": "alex@gmail.com",
+      "nome": "informatica",
+      "professor": "alex"
+    },
+    {
+      "ch": "80h",
+      "email": "cintia@gmail.com",
+      "nome": "administracao",
+      "professor": "cintia"
+    }
+  ]
+}
